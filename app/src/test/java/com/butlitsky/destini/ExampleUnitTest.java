@@ -1,4 +1,4 @@
-package com.londonappbrewery.destini;
+package com.butlitsky.destini;
 
 import org.junit.Test;
 
